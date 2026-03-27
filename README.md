@@ -6,7 +6,7 @@ Expense Manager Premium is a modern, feature-rich desktop application designed t
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-**Expense Master Premium** is a modern, offline-first desktop application designed to help you easily track your personal finances, manage daily expenses, and monitor your monthly income through a premium dark-themed interface.
+**Expense Manager Premium** is a modern, offline-first desktop application designed to help you easily track your personal finances, manage daily expenses, and monitor your monthly income through a premium dark-themed interface.
 
 Developed by **KreativeLabs**.
 
